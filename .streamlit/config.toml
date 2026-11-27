@@ -1,0 +1,15 @@
+[server]
+# Maximum upload size in MB.
+maxUploadSize = 5
+
+[browser]
+# Disable anonymous usage statistics.
+gatherUsageStats = false
+
+[theme]
+base = "dark"
+primaryColor = "#8174E8"
+backgroundColor = "#0B111D"
+secondaryBackgroundColor = "#131D2B"
+textColor = "#E2E8F0"
+font = "sans serif"
